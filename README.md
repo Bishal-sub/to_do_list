@@ -49,11 +49,11 @@ flutter run
 
 
 
-<img src="https://github.com/user-attachments/assets/f397b83a-260d-4214-90d0-b1b32528c763" width="200" height="500">
+<img src="https://github.com/user-attachments/assets/f397b83a-260d-4214-90d0-b1b32528c763" width="300" height="500">
 
-<img src="https://github.com/user-attachments/assets/74043461-11c4-4c0f-a54d-a178761feaf8" width="200" height="500">
+<img src="https://github.com/user-attachments/assets/74043461-11c4-4c0f-a54d-a178761feaf8" width="300" height="500">
 
-<img src="https://github.com/user-attachments/assets/3b69c876-3ede-4666-9e9e-55026753345c" width="200" height="500">
+<img src="https://github.com/user-attachments/assets/3b69c876-3ede-4666-9e9e-55026753345c" width="300" height="500">
 
 
 
