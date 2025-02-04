@@ -1,12 +1,16 @@
-flutter
-Sure, let's tailor the project description to a Flutter-based To-Do List application:
+
 
 Project Title: Flutter To-Do List Application
+
+
 Description
+
+
 The Flutter To-Do List Application is a cross-platform mobile app designed to help users manage their tasks efficiently. Built with Flutter, this application offers a seamless experience on both Android and iOS devices. Users can create, edit, and delete tasks, as well as mark them as complete, ensuring they stay organized and on top of their daily activities, goals, and deadlines.
 
 
 Technologies Used
+
 Flutter: For building the cross-platform mobile application.
 
 Dart: The programming language used in Flutter.
