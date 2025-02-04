@@ -21,19 +21,25 @@ To get started with the Flutter To-Do List Application, follow these steps:
 
 Clone the repository:
 
-bash
+
+
 git clone git@github.com:Bishal-sub/to_do_list----flutter.git
+
 Navigate to the project directory:
 
-bash
+
+
 cd to_do_list----flutter
+
 Install the dependencies:
 
-bash
+
 flutter pub get
+
 Run the application:
 
-bash
+
+
 flutter run
 
 
